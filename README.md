@@ -56,8 +56,17 @@ PLAS (Present Letter Archiving Service)
 
     https://user-images.githubusercontent.com/70315475/155728570-03d474a4-8915-4682-b8f9-82a3ffb57617.mp4
 
+    - 게시글 검색 기능
+      - 날짜 검색
+      - 게시글 제목 검색
 
+    https://user-images.githubusercontent.com/70315475/155729473-60a4bd78-ce7f-41b7-a5cb-b805021b5071.mp4
+
+    - 좋아요(하트) 목록만 정리
     
+    https://user-images.githubusercontent.com/70315475/155729960-053cc07d-dba9-488e-a289-657d22f6e011.mp4
+
+
     
 
 
