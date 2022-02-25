@@ -47,6 +47,20 @@ PLAS (Present Letter Archiving Service)
     - 친구 목록을 최신순으로 정렬 후 즐겨찾기(별)를 우선으로 재정렬
     
     https://user-images.githubusercontent.com/70315475/155650537-b0c1f06f-f194-4d2e-818b-b9ca0a2e6ebd.mp4
+    
+    - 메시지 / 전화 이미지 클릭 시 해당 동작 수행
+
+    https://user-images.githubusercontent.com/70315475/155728520-f5b93e1a-34a5-4fab-9eb6-540fb10e1707.mp4
+    
+    - 게시글 작성
+
+    https://user-images.githubusercontent.com/70315475/155728570-03d474a4-8915-4682-b8f9-82a3ffb57617.mp4
+
+
+    
+    
+
+
 
 
 
